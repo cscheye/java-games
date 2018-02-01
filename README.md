@@ -1,3 +1,2 @@
-# Instant Runoff Voting
+# Java Games
 
-A CLI app to evaluate voting ballots, using the instant runnoff voting (IRV) algorithm.
